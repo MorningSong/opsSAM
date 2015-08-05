@@ -1,12 +1,14 @@
 # opsSAM
 
-一、基本环
+一、基本环境
+
 
   os：    Centos 6.6 x86_64
   python: 2.6.6 
 
 
 二、依赖关系
+
   1、python依赖包
     pip install -r requirements.txt
 
@@ -17,6 +19,7 @@
     cobbler-2.6.3-1
 
   3、其他接口
+  
     a)cobbler服务器
       cobbler-2.6.3-1.el6.noarch
       cobbler-web-2.6.3-1.el6.noarch
@@ -50,6 +53,7 @@
 
 
 三、django生产环境安装(非必须)
+
   推荐nginx+uwsgi(略)
   安装后按照实际情况修改scripts/supervisord.conf相关django配置
   [program:django]
@@ -57,6 +61,7 @@
 
 
 四、启动
+
   cp scripts/supervisord.conf /etc/
   cp scripts/supervisord /etc/init.d/
   chmod 755 /etc/init.d/supervisord
@@ -64,8 +69,14 @@
 
 
 五、访问地址：
+
   opsSAM前台：    http://192.168.3.105/
+  
   opsSAM后台：    http://192.168.3.105/admin
+  
   rabbitmq：      http://192.168.3.105:15672/
+  
   celery flower： http://192.168.3.105:5555/
+  
   supervisor:     http://192.168.3.105:9001/
+  
