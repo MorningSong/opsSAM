@@ -95,3 +95,6 @@
   
   supervisor:     http://your_ip:9001/
   
+
+六、demo
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/deploy_app.png)
