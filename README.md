@@ -97,4 +97,15 @@
   
 
 六、demo
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/login.png)
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/index.jpg)
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/system_install.png)
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/exec_command.png)
+
 ![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/deploy_app.png)
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/deploy_code.png)
