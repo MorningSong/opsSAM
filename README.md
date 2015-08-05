@@ -109,3 +109,10 @@
 ![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/deploy_app.png)
 
 ![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/deploy_code.png)
+
+
+上海Linux运维技术总群 QQ: 253534961
+
+二维码加入：
+
+![demo](https://github.com/MorningSong/opsSAM/blob/master/demo/qq.png)
