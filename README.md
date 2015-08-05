@@ -11,12 +11,17 @@
 二、依赖关系
 
   1、python依赖包
+  
     pip install -r requirements.txt
 
   2、epel源rpm安装包
+  
     mysql-5.5.19
+    
     subversion-1.6.11-10
+    
     rabbitmq-server-3.1.5-1
+    
     cobbler-2.6.3-1
     
 
